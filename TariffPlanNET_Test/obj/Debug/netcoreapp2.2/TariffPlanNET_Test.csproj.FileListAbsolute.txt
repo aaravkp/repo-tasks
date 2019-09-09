@@ -1,0 +1,17 @@
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET_Test.deps.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET_Test.runtimeconfig.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET_Test.runtimeconfig.dev.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET_Test.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET_Test.pdb
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/bin/Debug/netcoreapp2.2/TariffPlanNET.pdb
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.csproj.CoreCompileInputs.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.AssemblyInfoInputs.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.AssemblyInfo.cs
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.csproj.CopyComplete
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.pdb
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET_Test/obj/Debug/netcoreapp2.2/TariffPlanNET_Test.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/bin/Debug/netcoreapp2.2/TariffPlanNET.deps.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/bin/Debug/netcoreapp2.2/TariffPlanNET.runtimeconfig.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/bin/Debug/netcoreapp2.2/TariffPlanNET.runtimeconfig.dev.json
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/bin/Debug/netcoreapp2.2/TariffPlanNET.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/bin/Debug/netcoreapp2.2/TariffPlanNET.pdb
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.csproj.CoreCompileInputs.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.RazorAssemblyInfo.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.RazorAssemblyInfo.cs
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.AssemblyInfoInputs.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.AssemblyInfo.cs
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.RazorTargetAssemblyInfo.cache
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.dll
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.pdb
+/Users/arvindkumar/Projects/TariffPlanNET/TariffPlanNET/obj/Debug/netcoreapp2.2/TariffPlanNET.csprojAssemblyReference.cache
